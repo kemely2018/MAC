@@ -26,5 +26,5 @@ $ deactivate
 ## Resultado
 
 <br>
-<img src="https://github.com/kemely2018/MAC/blob/master/docs/images/resultado.PNG" height="200px"/>
+<img src="https://github.com/kemely2018/MAC/blob/master/docs/images/resultado.PNG" height="400px"/>
 
