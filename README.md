@@ -1,28 +1,30 @@
 # Hill Image Cipher
-This project is an application of the Hill cipher algorithm to encrypt and decrypt images
+Este proyecto es una aplicación del algoritmo de cifrado Hill para cifrar y descifrar imágenes.
 
-Original Image
+Imagen Original
 <br>
-<img src="https://github.com/Ilyes-Hammadi/hill-image-cipher/blob/master/docs/images/face.png" height="200px"/>
+<img src="https://github.com/kemely2018/MAC/blob/master/secret.jpeg" height="200px"/>
 
-Encoded Image
+Imagen Codificada
 <br>
-<img src="https://github.com/Ilyes-Hammadi/hill-image-cipher/blob/master/docs/images/face-encoded.png" height="200px"/>
+<img src="https://github.com/kemely2018/MAC/blob/master/secret-encoded.jpeg" height="200px"/>
 
 
 ## Run the project
-### Get the code
+
 ```shell
-$ git clone https://github.com/Ilyes-Hammadi/hill-image-cipher.git
-$ cd hill-image-cipher
+$ .\test\Scripts\activate
+```
+```shell
+$ python main.py secret.jpeg
 ```
 
-### Install dependencies
 ```shell
-$ pip install -r requirements.txt
+$ deactivate
 ```
 
-### Encode an image
-```shell
-$ python main.py image.jpg
-```
+## Resultado
+
+<br>
+<img src="https://github.com/kemely2018/MAC/blob/master/docs/images/resultado.PNG" height="200px"/>
+
